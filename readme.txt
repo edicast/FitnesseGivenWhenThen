@@ -38,3 +38,6 @@ Examples (Fitnesse Wiki syntax):
 |given|user [John Doe] has no money in their account|
 |when|[100] dollars is deposited in to the account|
 |then|the balance should be [100] dollars|
+
+this is another option for this approach
+https://github.com/weswilliams/GivWenZen
